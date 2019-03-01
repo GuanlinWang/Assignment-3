@@ -71,5 +71,5 @@ void printHighestPaid(vector<Person> &emp)
   cout<<"Highest paid: "<<name<<endl
       <<"Employee Id: "<<id<<endl
       <<"Employer: "<<comp<<endl
-      <<"Total Pay: $"<<setprecision(2)<<fixed<<highest;
+      <<"Total Pay: $"<<setprecision(2)<<fixed<<highest<<endl;
 }
